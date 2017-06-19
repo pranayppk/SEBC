@@ -5,4 +5,13 @@
 * reset to 1
 
 ## mount attributes
+**Filesystem**  |   **1K-blocks**  |  **Used**  |  **Available** | **Use%** | **Mounted on**
+---------------|--------------|--------|------------|------|-----------------
+udev | 7695472  | 12 | 7695460  | 1% | /dev
+tmpfs  | 1540092  |  336 | 1539756 | 1% | /run
+/dev/xvda1  |  8115168  | 823544  |  6856348  | 11% / 
+none  |  4  |  0  |  4  |  0%  |  /sys/fs/cgroup
+none  |  5120  |  0  |  5120  |  0% |  /run/lock
+none  |  7700452  |  0  |  7700452  |  0%  |  /run/shm
+none  |  102400   |  0  |  102400  |  0%  |  /run/user
 
