@@ -1,8 +1,7 @@
 
-# Instance 1 - 172.31.4.213
+# Instance 1 - 172.31.40.150
 ## vm swappiness
 * default 60
-* reset to 1
 
 ---
 
