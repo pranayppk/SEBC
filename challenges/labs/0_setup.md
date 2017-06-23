@@ -1,10 +1,10 @@
 # Cluster properties
 * AWS
-* node 1 - 52.89.252.8, ec2-52-89-252-8.us-west-2.compute.amazonaws.com 
-* node 2 - 34.212.46.111, ec2-34-212-46-111.us-west-2.compute.amazonaws.com
-* node 3 - 52.88.219.218, ec2-52-88-219-218.us-west-2.compute.amazonaws.com
-* node 4 - 34.212.71.194, ec2-34-212-71-194.us-west-2.compute.amazonaws.com
-* node 5 - 52.38.27.46, ec2-52-38-27-46.us-west-2.compute.amazonaws.com
+* node 1 - 52.89.252.8, ec2-52-89-252-8.us-west-2.compute.amazonaws.com, private IP - 172.31.40.136 
+* node 2 - 34.212.46.111, ec2-34-212-46-111.us-west-2.compute.amazonaws.com, private IP - 172.31.46.253
+* node 3 - 52.88.219.218, ec2-52-88-219-218.us-west-2.compute.amazonaws.com, private IP - 172.31.32.58
+* node 4 - 34.212.71.194, ec2-34-212-71-194.us-west-2.compute.amazonaws.com, private IP - 172.31.36.139
+* node 5 - 52.38.27.46, ec2-52-38-27-46.us-west-2.compute.amazonaws.com, private IP - 172.31.43.127
 * Ubuntu 14.04 server
 * file system capacity - 30822592 bytes/30G
 
